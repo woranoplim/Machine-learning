@@ -1,8 +1,8 @@
-#Meteor Hazard Prediction Project
+# **Meteor Hazard Prediction Project**
 
 This project focuses on predicting the severity of meteors using machine learning techniques. Developed as part of a third-year Computer Science student project, the solution utilizes the Random Forest algorithm combined with feature selection methods to enhance model performance.
 
-###Project Description
+### **Project Description**
 
 The goal of this project is to classify meteors based on their potential hazard levels. The dataset includes various meteor characteristics, and the classification outcomes are:
 
@@ -32,7 +32,7 @@ absolute_magnitude: Brightness magnitude of the meteor.
 
 hazardous: Boolean indicating if the meteor is hazardous.
 
-###Methods and Techniques
+### **Methods and Techniques**
 
 1. Machine Learning Model
 
